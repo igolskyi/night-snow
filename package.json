@@ -1,0 +1,26 @@
+{
+  "name": "night-snow",
+  "version": "1.0.0",
+  "description": "Night snow on canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dedmazayukr/night-snow.git"
+  },
+  "keywords": [
+    "canvas"
+  ],
+  "author": "Iurii Golskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dedmazayukr/night-snow/issues"
+  },
+  "homepage": "https://github.com/dedmazayukr/night-snow#readme",
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
